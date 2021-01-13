@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GoAir"
+    }
+  },
+  "defaultProject": "GoAir",
+  "cli": {
+    "analytics": "9baea997-1086-4ed4-acd1-264de3e37632"
+  }
 }
